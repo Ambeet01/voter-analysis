@@ -1,2 +1,0 @@
-# voter-analysis
-new repo
